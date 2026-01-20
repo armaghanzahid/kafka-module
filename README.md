@@ -1,4 +1,4 @@
-# Kafka Module for NestJS
+# Kafka Module for NestJS [npm package](https://www.npmjs.com/package/@armaghanzahid/kafka-module)
 
 A robust Kafka module for NestJS applications that provides type-safe message handling, automatic JSON parsing, and cloud provider support.
 
